@@ -1,4 +1,5 @@
 # Exploratory Data Science: Canadian Housing Market Analysis
+![](iStock-1309180566-min.width-1024.jpg)
 
 ## Introduction
 
